@@ -1,0 +1,1 @@
+This fully functional e-commerce webpage is built with HTML, CSS, and JavaScript, using Firebase for real-time data and authentication. Features include secure user registration and login, dynamic product listings with sorting/filtering, a real-time shopping cart, order management, and a responsive design optimized for both desktop and mobile devices.
