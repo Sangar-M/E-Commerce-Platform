@@ -7,6 +7,7 @@ Product Listings: Dynamic product display with sorting and filtering options.
 Shopping Cart: Add, remove, and update items in the cart with real-time updates.
 Order Management: Users can place orders and view order history.
 Responsive Design: Optimized for both desktop and mobile devices.
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Firebase (Firestore, Authentication)
